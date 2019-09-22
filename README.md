@@ -1,15 +1,16 @@
 # serenity-cucumber
  serenity BDD + cucumber + spring boot + java 8
  
- ** prerequisite:: **
+ **prerequisite:: **
  1. maven
  2. java 8+
  
- ** steps :: **
- > git clone 
+ **steps :: **
+ >git clone 
  
- > mvn compile
- > mvn verify
+ >mvn compile
+ >
+ >mvn verify
  
- ** serenity report :: **
+ **serenity report :: **
  /target/site/serenity/index.html
