@@ -1,5 +1,5 @@
-# serenity-cucumber
- serenity BDD + cucumber + spring boot + java 8
+
+## serenity BDD + cucumber + spring boot + java 8
  
  **prerequisite**
  1. maven
