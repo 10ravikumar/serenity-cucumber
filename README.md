@@ -6,7 +6,7 @@
  2. java 8+
  
  **steps**
- >git clone 
+ >git clone https://github.com/10ravikumar/serenity-cucumber
  
  run maven compile command.
  >mvn compile
