@@ -8,6 +8,8 @@
  **steps**
  >git clone https://github.com/10ravikumar/serenity-cucumber
  
+ add e2e folder to classpath
+ 
  run maven compile command.
  >mvn compile
  
