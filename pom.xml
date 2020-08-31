@@ -52,7 +52,7 @@
 		<dependency>
 			<groupId>net.serenity-bdd</groupId>
 			<artifactId>serenity-spring</artifactId>
-			<version>2.0.70</version>
+			<version>2.3.2</version>
 			<exclusions>
 				<exclusion>
 					<groupId>io.cucumber</groupId>
